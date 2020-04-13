@@ -1,4 +1,10 @@
-li
-color  :read-only
-p
-color: yellow;
+li{
+    color  :blueviolet
+
+}
+
+p{
+
+    color: yellow;   
+}
+
